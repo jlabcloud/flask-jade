@@ -4,3 +4,5 @@ A project for creating an application using the flask web framework with the Jad
 - flask web framework
 - Jade template engine
 - Twitter Bootstrap framework
+
+Python / Windows / Linux / macOS / Web
