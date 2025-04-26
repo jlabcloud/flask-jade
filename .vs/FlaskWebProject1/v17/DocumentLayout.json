@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\jesse\\OneDrive\\JLabcloud\\FlaskWebProject1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2401BF53-9494-4600-B88D-B2D4192C5EA3}|FlaskWebProject1.pyproj|C:\\Users\\jesse\\OneDrive\\JLabcloud\\FlaskWebProject1\\FlaskWebProject1\\views.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{2401BF53-9494-4600-B88D-B2D4192C5EA3}|FlaskWebProject1.pyproj|solutionrelative:FlaskWebProject1\\views.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "views.py",
+              "DocumentMoniker": "C:\\Users\\jesse\\OneDrive\\JLabcloud\\FlaskWebProject1\\FlaskWebProject1\\views.py",
+              "RelativeDocumentMoniker": "FlaskWebProject1\\views.py",
+              "ToolTip": "C:\\Users\\jesse\\OneDrive\\JLabcloud\\FlaskWebProject1\\FlaskWebProject1\\views.py",
+              "RelativeToolTip": "FlaskWebProject1\\views.py",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2025-04-26T16:14:02.634Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
